@@ -1,48 +1,43 @@
-# Bienvenido a mi Perfil de GitHub 👋
+# Welcome to My GitHub Profile 👋
 
-¡Hola! Soy Damián Otero, un apasionado profesional en el mundo del testing y aseguramiento de la calidad.
+Hello! I am Damián Otero, a passionate professional in the world of testing and quality assurance.
 
-## Sobre Mí 🎓
+## About Me 🎓
 
-- **Experiencia:** Cuento con una sólida formación en Programación y experiencia práctica como QA Tester y Analista.
-- **Habilidades:** Mi atención al detalle, pensamiento crítico y habilidades para resolver problemas, combinados con mi aptitud para trabajar en entornos dinámicos, son mis mayores fortalezas.
-- **Certificaciones:** Soy profesional certificado por ISTQB a nivel de Fundamentos y poseo una certificación de inglés B2 de Cambridge.
+- **Experience:** I have a solid background in Programming and practical experience as a QA Tester and Analyst.
+- **Skills:** My attention to detail, critical thinking, and problem-solving skills, combined with my ability to work in dynamic environments, are my greatest strengths.
+- **Certifications:** I am ISTQB certified at the Foundation level and hold a B2 English certification from Cambridge.
 
-## Experiencia Profesional 👕🌐
+## Professional Experience 👕🌐
 
-He trabajado diferentes proyectos como ecommerce, banca, plataformas de streaming... que mejoraron cuantitativamente mis habilidades en testing y aseguramiento de calidad, trabajando siempre bajo metodología Agile.
+I have worked on various projects such as ecommerce, banking, and streaming platforms, which have significantly enhanced my skills in testing and quality assurance, always working under Agile methodology.
 
-## Herramientas de Trabajo ✔️
+## Work Tools ✔️
 
-Preparado para Testing, dispongo de los siguientes dispositivos:
+Prepared for Testing, I have the following devices:
 
 - PC Windows 10 PRO 💻
-- MAC Mini 2018 🖥
 - IPhone 13 📱
-- Iphone 11 📱
-- Iphone 7 📱
 - Ipad 8th gen 📱
-- Dispositivo Android Samsung 📱
 - Google Pixel 7 📱
-- Samsung S22 📱
 
-## Proyectos y Colaboraciones 🌐
+## Projects and Collaborations 🌐
 
-Puedes revisar mis proyectos actuales y pasados aquí:
+You can review my current and past projects here:
 
 - [Carolina Herrera](https://chcarolinaherrera.com)
 - [Purificación García](https://purificaciongarcia.com)
 - [William Hill](https://williamhill.es)
 - [PokerStars](https://pokerstars.es)
 
-## Contáctame 📆
+## Contact Me 📆
 
-Si deseas saber más sobre mí o agendar una llamada, puedes hacerlo aquí:
+If you want to know more about me or schedule a call, you can do so here:
 
-[Agendar una Llamada](https://calendly.com/damianoteroalvarez/30min)
+[Schedule a Call](https://calendly.com/damianoteroalvarez/30min)
 
 damianoteroalvarez@gmail.com
 
-Atentamente,
-
+Sincerely,
 Damián Otero
+
